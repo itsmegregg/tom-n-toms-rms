@@ -36,7 +36,7 @@ export function Header({ className, isSidebarOpen, onSidebarToggle }: HeaderProp
 
         <div className="flex items-center gap-2 md:gap-4">
           <ApplicationLogo className="h-8 w-8" />
-          <h1 className="text-xl font-bold hidden sm:block">RMS Dashboard</h1>
+          <h1 className="text-xl font-bold hidden sm:block">RMS Dashboard - Toms N Toms</h1>
         </div>
 
         <div className="flex-1" />
